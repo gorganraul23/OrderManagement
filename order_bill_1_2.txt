@@ -1,0 +1,12 @@
+### Bill for order 1_2 ###
+
+# Client details:
+ Name: Ana
+ Address: Zorilor
+
+# Products:
+ 2 x balama .......... 2 x 7
+
+		TOTAL: 14
+
+################################
